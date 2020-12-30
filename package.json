@@ -2,7 +2,14 @@
   "name": "dsh-npm-components",
   "description": "A Vue.js project",
   "version": "0.1.0",
-  "author": "Dsh <xuanhao.deng@caibeitv.com>",
+  "author": {
+    "name": "Dsh",
+    "email": "84406424@qq.com"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/DshLLL/VueNpm.git"
+  },
   "license": "MIT",
   "private": false,
   "scripts": {
